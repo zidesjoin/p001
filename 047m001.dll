@@ -1,0 +1,17 @@
+var mag1 = [
+{
+    "IDPrdMag": 1,
+    "Pharmacie": "Ouzaid Omar",
+    "NTel1": "06.67.64.13.38",
+    "NTel2": "07.75.19.20.90",
+    "Commune": "Ghardaia",
+    "Date": "2013/01/15",
+},{
+    "IDPrdMag": 2,
+    "Pharmacie": "Chikh salah Faiza",
+    "NTel1": "06.67.64.13.38",
+    "NTel2": "07.75.19.20.90",
+    "Commune": "El Ateuf",
+    "Date": "2013/01/01",
+}
+]
