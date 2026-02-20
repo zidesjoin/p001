@@ -1,0 +1,49 @@
+    const Pharmacies_W47 = 
+      { label: '<strong style="font-size: 14px; color:green;"> W.Ghardaia</strong>', selectAllCheckbox: true, children: [
+
+        { label: '<strong style="font-size: 14px; color:red;"> Commune A1</strong>', selectAllCheckbox: true, children: [
+            { label: ' Ghardaia', layer: new L.Marker([50.823000, 6.187000]) },
+            { label: ' Daia ben dahoua', layer: new L.Marker([50.982000, 12.506000]) },
+            { label: ' Zelfana', layer: new L.Marker([51.483000, 7.899000]) },
+            { label: ' Berriean', layer: new L.Marker([48.425000, 10.932000]) },
+            { label: ' Guerrara', layer: new L.Marker([48.791000, 8.187000]) },
+            { label: ' BAUTZEN - BBJ', layer: new L.Marker([51.193000, 14.520000]) },
+            { label: ' BAYREUTH - BYU', layer: new L.Marker([49.984000, 11.638000]) },
+            { label: ' BERLIN - SXF', layer: new L.Marker([52.380000, 13.523000]) },
+            { label: ' BERLIN - THF', layer: new L.Marker([52.473000, 13.404000]) },
+            { label: ' BERLIN - TXL', layer: new L.Marker([52.559000, 13.287000]) },
+            { label: ' BORKUM - BMK', layer: new L.Marker([53.595000, 6.709000]) },
+            { label: ' BRAUNSCHWEIG - BWE', layer: new L.Marker([52.319000, 10.556000]) },
+            { label: ' BREMEN - BRE', layer: new L.Marker([53.047000, 8.787000]) },
+            { label: ' BREMERHAVEN - BRV', layer: new L.Marker([53.503000, 8.573000]) },
+            { label: ' BRUEGGEN - BGN', layer: new L.Marker([51.200000, 6.132000]) },
+            { label: ' CELLE - ZCN', layer: new L.Marker([52.591000, 10.022000]) },
+            { label: ' COLOGNE - CGN', layer: new L.Marker([50.866000, 7.143000]) },
+          ]},
+
+        { label: '<strong style="font-size: 14px; color:red;"> Commune B2</strong>', selectAllCheckbox: true, children: [
+            { label: ' ALICANTE - ALC', layer: new L.Marker([38.282000, -0.558000]) },
+            { label: ' ALMERIA - LEI', layer: new L.Marker([36.844000, -2.370000])},
+            { label: ' AVILES - OVD', layer: new L.Marker([43.563000, -6.034000])},
+            { label: ' BADAJOZ - BJZ', layer: new L.Marker([38.891000, -6.821000])},
+            { label: ' BARCELONA - BCN', layer: new L.Marker([41.297000, 2.078000])},
+            { label: ' BILBAO - BIO', layer: new L.Marker([43.301000, -2.911000])},
+            { label: ' CORDOBA - ODB', layer: new L.Marker([37.842000, -4.849000])},
+            { label: ' GERONA - GRO', layer: new L.Marker([41.901000, 2.760000])},
+            { label: ' GRANADA - GRX', layer: new L.Marker([37.133000, -3.636000])},
+            { label: ' GRANADA - GRX', layer: new L.Marker([37.189000, -3.777000])},
+          ]},
+
+        { label: '<strong style="font-size: 14px; color:red;"> Commune 03</strong>', selectAllCheckbox: true, children: [
+            { label: ' AGEN - AGF', layer: new L.Marker([44.175000, 0.591000]) },
+            { label: ' AIX-LES-MILLES - QXB', layer: new L.Marker([43.505000, 5.368000]) },
+            { label: ' ALBI - LBI', layer: new L.Marker([43.914000, 2.113000]) },
+            { label: ' ANGOULEME - ANG', layer: new L.Marker([45.729000, 0.221000]) },
+            { label: ' ANNECY - NCY', layer: new L.Marker([45.929000, 6.099000]) },
+            { label: ' ANNEMASSE - QNJ', layer: new L.Marker([46.192000, 6.268000]) },
+            { label: ' ARCACHON - XAC', layer: new L.Marker([44.596000, -1.111000]) },
+            { label: ' AUBENAS-VALS-LANAS - OBS', layer: new L.Marker([44.544000, 4.372000]) },
+            { label: ' AURILLAC - AUR', layer: new L.Marker([44.891000, 2.422000]) },
+          ]},
+
+      ]};
