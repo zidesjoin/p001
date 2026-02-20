@@ -1,0 +1,17 @@
+var mag3 = [
+{
+    "IDPrdMag": 1,
+    "Pharmacie": "Abdelhakim",
+    "NTel1": "06.67.64.13.38",
+    "NTel2": "07.75.19.20.90",
+    "Commune": "Guerrara",
+    "Date": "2013/01/15",
+},{
+    "IDPrdMag": 3,
+    "Pharmacie": "Zides",
+    "NTel1": "06.67.64.13.38",
+    "NTel2": "07.75.19.20.90",
+    "Commune": "Zelfana",
+    "Date": "2013/01/01",
+}
+]
