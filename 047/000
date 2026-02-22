@@ -1,4 +1,4 @@
-    const m_w47 = 
+    const mags_w47 = 
       { label: '<strong style="font-size: 14px; color:green;"> W.Ghardaia</strong>', selectAllCheckbox: true, children: [
 
         { label: '<strong style="font-size: 14px; color:red;"> Commune A1</strong>', selectAllCheckbox: true, children: [
