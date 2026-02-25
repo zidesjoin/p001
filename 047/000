@@ -1,5 +1,5 @@
     const mags_w47 = 
-      { label: '<strong style="font-size: 14px; color:green;"> W.Ghardaia</strong>', selectAllCheckbox: true, children: [
+     // { label: '<strong style="font-size: 14px; color:green;"> W.Ghardaia</strong>', selectAllCheckbox: true, children: [
 
         { label: '<strong style="font-size: 14px; color:red;"> Ghardaia</strong>', selectAllCheckbox: true, children: [
             { label: ' Ghardaia', layer: new L.Marker([50.823000, 6.187000]) },
@@ -46,4 +46,4 @@
             { label: ' AURILLAC - AUR', layer: new L.Marker([44.891000, 2.422000]) },
           ]},
 
-      ]};
+     // ]};
