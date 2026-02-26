@@ -2,7 +2,7 @@
       { label: '<strong style="font-size: 14px; color:green;"> W.Ghardaia</strong>', selectAllCheckbox: true, children: [
 
         { label: '<strong style="font-size: 14px; color:red;"> Ghardaia</strong>', selectAllCheckbox: true, children: [
-            { label: ' Ghardaia', layer: new L.Marker([50.823000, 6.187000]) },
+            { label: ' Ghardaia new', layer: new L.Marker([50.823000, 6.187000]) },
             { label: ' Daia ben dahoua', layer: new L.Marker([50.982000, 12.506000]) },
             { label: ' Zelfana', layer: new L.Marker([51.483000, 7.899000]) },
             { label: ' Berriean', layer: new L.Marker([48.425000, 10.932000]) },
